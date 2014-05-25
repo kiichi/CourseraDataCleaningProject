@@ -36,8 +36,8 @@ This is a function to get either train or test dataset,
 
 * Requirement: data.table
 * Parameters:
-** datatype - "train" or "test"
-** row_num - set -1 for full importing files. Set 10 to read only first 10 lines
+    * datatype - "train" or "test"
+    * row_num - set -1 for full importing files. Set 10 to read only first 10 lines
 * Return: data.table
 
 Reading Lookup tables
