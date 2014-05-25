@@ -113,7 +113,7 @@ result_summary<-ddply(result,.(subject,activity),function(x){
 ```
 
 
-The final result, data/tidy_average.csv, contains 180 rows
+The final result, tidy_average.csv, contains 180 rows
 (30 subjects x 6 activities).
 
 
